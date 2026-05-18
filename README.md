@@ -17,6 +17,7 @@ Padding是Flutter中用于给子组件添加填充（内边距）的组件。它
 - `EdgeInsets.fromLTRB(left, top, right, bottom)`: 分别指定左、上、右、下四个方向的填充值
 
 > **实例程序来源：** [Flutter实战·第二版 - 5.1.3 示例](https://book.flutterchina.club/chapter5/padding.html#_5-1-3-%E7%A4%BA%E4%BE%8B)
+> **源码位置：** [lib/main.dart#L23-L51](https://github.com/thiswind/flutter-chapter5/blob/main/lib/main.dart#L23-L51)
 
 ### 演示效果
 
